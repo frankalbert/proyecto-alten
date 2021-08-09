@@ -69,8 +69,8 @@
 
 <style lang="scss" scoped>
     .table {
-        margin: 30px 0;
         &-responsive {
+            margin: 30px 0;
             overflow-x: auto;
         }
         width: 100%;

@@ -90,7 +90,6 @@
     .table {
         &-responsive {
             height: 75vh;
-            margin-bottom: 30px;
             overflow-y: auto;
         }
     }
